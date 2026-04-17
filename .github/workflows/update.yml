@@ -21,7 +21,15 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+              run: pip install requests
+
+            # ここに設定変更を追加
+            - name: Enable Legacy OpenSSL Renegotiation
+              run: |
+                sudo sed -i 's/Providers = provider_sect/Providers = provider_sect\n\n[ssl_module]\nsystem_default = system_default_sect\n\n[system_default_sect]\nOptions = UnsafeLegacyRenegotiation/' /etc/ssl/openssl.cnf
+
+            - name: Fetch RDF
+              run: python update_feed.py
 
       - name: Fetch RDF
         run: python update_feed.py
