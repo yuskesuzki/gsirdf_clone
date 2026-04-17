@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xml:lang="ja">
+    <channel rdf:about="http://www.gsi.go.jp/index.rdf">
+        <title>国土地理院ホームページ：新着情報</title>
+        <link>http://www.gsi.go.jp/index.rdf</link>
+        <description>国土地理院ホームページ：新着情報</description>
+        <dc:language>ja-jp</dc:language>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.gsi.go.jp/sokuryosidou/sokuryosidou41062.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chirikukan/chirikukan61034.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/MAP/service_notice_00002.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/GSI/RECRUIT/internship.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/johosystem/johosystem45044.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/denshi/denshi45052.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/denshi/denshi65021.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260331.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/denshi/denshi45051.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/bousaichiri/denshouhi.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chibankansi/minkan_20260326.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chirikukan/chirikukan61032.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kohokocho/koho693-top.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/denshi/denshi_20250328.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/gazochosa/gazochosa41020.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kohokocho/kohokocho65055.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/gazochosa/gazochosa41021.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kohokocho/koho692-top.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chirikukan/chirikukan61031.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/GSI/RECRUIT/tourR7.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/jinji/temporary.202604_00001.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/jinji/temporary.202604_00002.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kohokocho/koho691-top.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kohokocho/kanrisya50001_00161.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chizuhensyu/chizuhensyu61007.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/denshi/denshi65020.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61015.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/sokuchikijun/sokuchikijun41132.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/kikakuchousei/r8yosan.html" />
+                <rdf:li rdf:resource="http://www.gsi.go.jp/chibankansi/chikakukansi_20251208_aomoriken-tohooki_3.html" />
+            </rdf:Seq>
+        </items>
+    </channel>
+    <item rdf:about="http://www.gsi.go.jp/sokuryosidou/sokuryosidou41062.html">
+        <title>沖縄県測量専門養成所を測量士補養成施設として新規登録</title>
+        <link>http://www.gsi.go.jp/sokuryosidou/sokuryosidou41062.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-04-17T11:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chirikukan/chirikukan61034.html">
+        <title>「ジオAI研究会」（第３回）を開催します ～ これまでの研究会を踏まえた取組の方向性を議論します ～</title>
+        <link>http://www.gsi.go.jp/chirikukan/chirikukan61034.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-04-16T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html">
+        <title>令和８年測量士・測量士補試験の試験会場を公表しました</title>
+        <link>http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-04-16T09:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/MAP/service_notice_00002.html">
+        <title>令和8年4月22日 地理空間情報に関する各サービスの一時停止に関するお知らせ</title>
+        <link>http://www.gsi.go.jp/MAP/service_notice_00002.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-04-15T13:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html">
+        <title>令和8年3月の地殻変動</title>
+        <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-04-08T16:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/GSI/RECRUIT/internship.html">
+        <title>職場体験実習生（インターンシップ生）を募集します（技術系）</title>
+        <link>http://www.gsi.go.jp/GSI/RECRUIT/internship.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-04-01T00:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/johosystem/johosystem45044.html">
+        <title>4月9日のネットワークメンテナンスについて</title>
+        <link>http://www.gsi.go.jp/johosystem/johosystem45044.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-31T16:20:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/denshi/denshi45052.html">
+        <title>民間等電子基準点の登録に向けた品質評価申請サイトの試験公開</title>
+        <link>http://www.gsi.go.jp/denshi/denshi45052.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-31T15:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/denshi/denshi65021.html">
+        <title>新しい「電子基準点日々の座標値（F5.1解）」を公開します</title>
+        <link>http://www.gsi.go.jp/denshi/denshi65021.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-31T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260331.html">
+        <title>「だいち４号」を活用した全国の変動分布図を公開</title>
+        <link>http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260331.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-31T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/denshi/denshi45051.html">
+        <title>電子基準点データ提供サービスから提供しているRINEXファイルの不具合について</title>
+        <link>http://www.gsi.go.jp/denshi/denshi45051.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-26T09:05:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/bousaichiri/denshouhi.html">
+        <title>13市区町村24基の自然災害伝承碑を追加し、全国で681市区町村2,440基を公開</title>
+        <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-26T09:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chibankansi/minkan_20260326.html">
+        <title>民間の観測施設も活用して全国の地殻変動の監視を強化－地震に伴う地殻変動の情報がより詳細に－</title>
+        <link>http://www.gsi.go.jp/chibankansi/minkan_20260326.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-26T08:28:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chirikukan/chirikukan61032.html">
+        <title>「ジオAI研究会」（第２回）を開催します ～ 第１回研究会を踏まえた課題・論点の整理などを議論します ～</title>
+        <link>http://www.gsi.go.jp/chirikukan/chirikukan61032.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kohokocho/koho693-top.html">
+        <title>国土地理院広報第６９３号を掲載</title>
+        <link>http://www.gsi.go.jp/kohokocho/koho693-top.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html">
+        <title>災害時に滞在するための施設を地図で簡単に確認　～地理院地図で「指定避難所」の情報を公開～</title>
+        <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html">
+        <title>３次元電子国土基本図の提供を開始！～全国の地図を３次元化しデジタル社会に貢献～</title>
+        <link>http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/denshi/denshi_20250328.html">
+        <title>新しい「電子基準点日々の座標値（F5.1解）」を試験公開します【追記】</title>
+        <link>http://www.gsi.go.jp/denshi/denshi_20250328.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html">
+        <title>【採用情報】国家公務員総合職試験（技術系区分）既合格者向け官庁訪問</title>
+        <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-23T10:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm">
+        <title>令和8年1月1日時点の全国都道府県市区町村別の面積を公表</title>
+        <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-19T10:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/gazochosa/gazochosa41020.html">
+        <title>航空レーザ測量によって得られた「点群データ」の刊行範囲を拡大</title>
+        <link>http://www.gsi.go.jp/gazochosa/gazochosa41020.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-19T09:11:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html">
+        <title>火山防災関連施設データの公開　～火山噴火時の緊急避難施設を地理院地図で確認し、もしもに備えよう～</title>
+        <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-18T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kohokocho/kohokocho65055.html">
+        <title>企画展“｢地図と測量の科学館｣開館３０周年記念特別展”を開催<br>～過去の企画展の振り返りと３０年の歩みなどを紹介～</title>
+        <link>http://www.gsi.go.jp/kohokocho/kohokocho65055.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-10T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html">
+        <title>令和8年2月の地殻変動</title>
+        <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-09T16:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html">
+        <title>20年の感謝を込めて！国土地理院からJAXAに感謝状を贈呈</title>
+        <link>http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-02T11:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html">
+        <title>数値地図（オンライン）の価格改定のお知らせ（令和8年4月1日予定）</title>
+        <link>http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-03-02T08:30:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/gazochosa/gazochosa41021.html">
+        <title>１ｍメッシュ（標高）及び５ｍメッシュ（標高）の提供範囲を拡大しました</title>
+        <link>http://www.gsi.go.jp/gazochosa/gazochosa41021.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-27T09:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html">
+        <title>測量行政懇談会（第32回）の開催について</title>
+        <link>http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kohokocho/koho692-top.html">
+        <title>国土地理院広報第６９２号を掲載</title>
+        <link>http://www.gsi.go.jp/kohokocho/koho692-top.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-25T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html">
+        <title>令和8年1月の地殻変動</title>
+        <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-09T16:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chirikukan/chirikukan61031.html">
+        <title>ジオAI（地理空間情報×AI）の推進に向けた議論を開始します！ ～ 「ジオAI研究会」（第１回）の開催 ～</title>
+        <link>http://www.gsi.go.jp/chirikukan/chirikukan61031.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-05T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html">
+        <title>令和7年（2025年）青森県東方沖の地震に伴い改定した三角点測量成果及び座標補正パラメータの公表について</title>
+        <link>http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-05T09:30:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html">
+        <title>【採用情報】関東地区官庁オープンツアー＜技術系区分＞（採用関連イベント）（3月6日開催）</title>
+        <link>http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-02T09:45:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/GSI/RECRUIT/tourR7.html">
+        <title>【採用情報】関東地区官庁オープンツアー＜行政・教養区分＞（採用関連イベント）</title>
+        <link>http://www.gsi.go.jp/GSI/RECRUIT/tourR7.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-02-02T08:55:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html">
+        <title>国土地理院業務説明会（技術系）をオンラインで開催します（2月27日開催）</title>
+        <link>http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-30T09:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/jinji/temporary.202604_00001.html">
+        <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集１</title>
+        <link>http://www.gsi.go.jp/jinji/temporary.202604_00001.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-30T08:30:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/jinji/temporary.202604_00002.html">
+        <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集２</title>
+        <link>http://www.gsi.go.jp/jinji/temporary.202604_00002.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-30T08:30:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html">
+        <title>地理院地図（中・小縮尺タイル）のリニューアル（予告）～情報の充実と表現の統一感向上を図ります～</title>
+        <link>http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-28T12:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kohokocho/koho691-top.html">
+        <title>国土地理院広報第６９１号を掲載</title>
+        <link>http://www.gsi.go.jp/kohokocho/koho691-top.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-26T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kohokocho/kanrisya50001_00161.html">
+        <title>ご質問・ご意見ウェブページ 問合せフォームの不具合について</title>
+        <link>http://www.gsi.go.jp/kohokocho/kanrisya50001_00161.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-26T11:36:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chizuhensyu/chizuhensyu61007.html">
+        <title>電子地形図50000の全国整備が完了！ ～全国どこでも地域の概況を捉えられます～</title>
+        <link>http://www.gsi.go.jp/chizuhensyu/chizuhensyu61007.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-22T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/denshi/denshi65020.html">
+        <title>太陽フレアによる1月20日のGNSS測位への影響</title>
+        <link>http://www.gsi.go.jp/denshi/denshi65020.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-21T17:30:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html">
+        <title>太陽フレアによる1月20日の地磁気への影響</title>
+        <link>http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-21T14:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61015.html">
+        <title>指名停止措置について</title>
+        <link>http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61015.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-19T14:45:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html">
+        <title>【採用関連イベント】国土地理院 冬の職場訪問を開催します（2月17日開催）</title>
+        <link>http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-16T09:30:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html">
+        <title>令和8年1月6日10時18分頃の島根県東部の地震に伴う地殻変動</title>
+        <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-14T16:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html">
+        <title>令和7年12月の地殻変動</title>
+        <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-13T16:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/sokuchikijun/sokuchikijun41132.html">
+        <title>【お知らせ】測量計算サイト等のサービス再開について</title>
+        <link>http://www.gsi.go.jp/sokuchikijun/sokuchikijun41132.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2026-01-05T13:15:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/kikakuchousei/r8yosan.html">
+        <title>令和８年度国土地理院関係予算決定概要</title>
+        <link>http://www.gsi.go.jp/kikakuchousei/r8yosan.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2025-12-26T16:00:00+09:00</dc:date>
+	</item>
+    <item rdf:about="http://www.gsi.go.jp/chibankansi/chikakukansi_20251208_aomoriken-tohooki_3.html">
+        <title>令和7年12月8日23時15分頃の青森県東方沖の地震に伴う地殻変動（第3報）</title>
+        <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20251208_aomoriken-tohooki_3.html</link>
+        <dc:creator>国土地理院ホームページ</dc:creator>
+        <dc:date>2025-12-25T16:00:00+09:00</dc:date>
+	</item>
+</rdf:RDF>
+ 
