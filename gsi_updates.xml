@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>国土地理院 更新情報</title>
+    <link>https://www.gsi.go.jp/</link>
+    <description>国土地理院のRDFを自動修復したフィードです。</description>
+    <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>沖縄県測量専門養成所を測量士補養成施設として新規登録</title>
+      <link>http://www.gsi.go.jp/sokuryosidou/sokuryosidou41062.html</link>
+      <description />
+      <pubDate>Fri, 17 Apr 2026 02:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/sokuryosidou/sokuryosidou41062.html</guid>
+    </item>
+    <item>
+      <title>「ジオAI研究会」（第３回）を開催します ～ これまでの研究会を踏まえた取組の方向性を議論します ～</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan61034.html</link>
+      <description />
+      <pubDate>Thu, 16 Apr 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61034.html</guid>
+    </item>
+    <item>
+      <title>令和８年測量士・測量士補試験の試験会場を公表しました</title>
+      <link>http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html</link>
+      <description />
+      <pubDate>Thu, 16 Apr 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html</guid>
+    </item>
+    <item>
+      <title>令和8年4月22日 地理空間情報に関する各サービスの一時停止に関するお知らせ</title>
+      <link>http://www.gsi.go.jp/MAP/service_notice_00002.html</link>
+      <description />
+      <pubDate>Wed, 15 Apr 2026 04:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/MAP/service_notice_00002.html</guid>
+    </item>
+    <item>
+      <title>令和8年3月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html</link>
+      <description />
+      <pubDate>Wed, 08 Apr 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html</guid>
+    </item>
+    <item>
+      <title>職場体験実習生（インターンシップ生）を募集します（技術系）</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/internship.html</link>
+      <description />
+      <pubDate>Tue, 31 Mar 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/internship.html</guid>
+    </item>
+    <item>
+      <title>4月9日のネットワークメンテナンスについて</title>
+      <link>http://www.gsi.go.jp/johosystem/johosystem45044.html</link>
+      <description />
+      <pubDate>Tue, 31 Mar 2026 07:20:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/johosystem/johosystem45044.html</guid>
+    </item>
+    <item>
+      <title>民間等電子基準点の登録に向けた品質評価申請サイトの試験公開</title>
+      <link>http://www.gsi.go.jp/denshi/denshi45052.html</link>
+      <description />
+      <pubDate>Tue, 31 Mar 2026 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi45052.html</guid>
+    </item>
+    <item>
+      <title>新しい「電子基準点日々の座標値（F5.1解）」を公開します</title>
+      <link>http://www.gsi.go.jp/denshi/denshi65021.html</link>
+      <description />
+      <pubDate>Tue, 31 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi65021.html</guid>
+    </item>
+    <item>
+      <title>「だいち４号」を活用した全国の変動分布図を公開</title>
+      <link>http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260331.html</link>
+      <description />
+      <pubDate>Tue, 31 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260331.html</guid>
+    </item>
+    <item>
+      <title>電子基準点データ提供サービスから提供しているRINEXファイルの不具合について</title>
+      <link>http://www.gsi.go.jp/denshi/denshi45051.html</link>
+      <description />
+      <pubDate>Thu, 26 Mar 2026 00:05:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi45051.html</guid>
+    </item>
+    <item>
+      <title>13市区町村24基の自然災害伝承碑を追加し、全国で681市区町村2,440基を公開</title>
+      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
+      <description />
+      <pubDate>Thu, 26 Mar 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
+    </item>
+    <item>
+      <title>民間の観測施設も活用して全国の地殻変動の監視を強化－地震に伴う地殻変動の情報がより詳細に－</title>
+      <link>http://www.gsi.go.jp/chibankansi/minkan_20260326.html</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 23:28:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/minkan_20260326.html</guid>
+    </item>
+    <item>
+      <title>「ジオAI研究会」（第２回）を開催します ～ 第１回研究会を踏まえた課題・論点の整理などを議論します ～</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan61032.html</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61032.html</guid>
+    </item>
+    <item>
+      <title>国土地理院広報第６９３号を掲載</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho693-top.html</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho693-top.html</guid>
+    </item>
+    <item>
+      <title>災害時に滞在するための施設を地図で簡単に確認　～地理院地図で「指定避難所」の情報を公開～</title>
+      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html</guid>
+    </item>
+    <item>
+      <title>３次元電子国土基本図の提供を開始！～全国の地図を３次元化しデジタル社会に貢献～</title>
+      <link>http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html</guid>
+    </item>
+    <item>
+      <title>新しい「電子基準点日々の座標値（F5.1解）」を試験公開します【追記】</title>
+      <link>http://www.gsi.go.jp/denshi/denshi_20250328.html</link>
+      <description />
+      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi_20250328.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】国家公務員総合職試験（技術系区分）既合格者向け官庁訪問</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html</link>
+      <description />
+      <pubDate>Mon, 23 Mar 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html</guid>
+    </item>
+    <item>
+      <title>令和8年1月1日時点の全国都道府県市区町村別の面積を公表</title>
+      <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
+      <description />
+      <pubDate>Thu, 19 Mar 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</guid>
+    </item>
+    <item>
+      <title>航空レーザ測量によって得られた「点群データ」の刊行範囲を拡大</title>
+      <link>http://www.gsi.go.jp/gazochosa/gazochosa41020.html</link>
+      <description />
+      <pubDate>Thu, 19 Mar 2026 00:11:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/gazochosa41020.html</guid>
+    </item>
+    <item>
+      <title>火山防災関連施設データの公開　～火山噴火時の緊急避難施設を地理院地図で確認し、もしもに備えよう～</title>
+      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html</link>
+      <description />
+      <pubDate>Wed, 18 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html</guid>
+    </item>
+    <item>
+      <title>企画展“｢地図と測量の科学館｣開館３０周年記念特別展”を開催 ～過去の企画展の振り返りと３０年の歩みなどを紹介～</title>
+      <link>http://www.gsi.go.jp/kohokocho/kohokocho65055.html</link>
+      <description />
+      <pubDate>Tue, 10 Mar 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65055.html</guid>
+    </item>
+    <item>
+      <title>令和8年2月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html</link>
+      <description />
+      <pubDate>Mon, 09 Mar 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html</guid>
+    </item>
+    <item>
+      <title>20年の感謝を込めて！国土地理院からJAXAに感謝状を贈呈</title>
+      <link>http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html</link>
+      <description />
+      <pubDate>Mon, 02 Mar 2026 02:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html</guid>
+    </item>
+    <item>
+      <title>数値地図（オンライン）の価格改定のお知らせ（令和8年4月1日予定）</title>
+      <link>http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html</link>
+      <description />
+      <pubDate>Sun, 01 Mar 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html</guid>
+    </item>
+    <item>
+      <title>１ｍメッシュ（標高）及び５ｍメッシュ（標高）の提供範囲を拡大しました</title>
+      <link>http://www.gsi.go.jp/gazochosa/gazochosa41021.html</link>
+      <description />
+      <pubDate>Fri, 27 Feb 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/gazochosa41021.html</guid>
+    </item>
+    <item>
+      <title>測量行政懇談会（第32回）の開催について</title>
+      <link>http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html</link>
+      <description />
+      <pubDate>Wed, 25 Feb 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html</guid>
+    </item>
+    <item>
+      <title>国土地理院広報第６９２号を掲載</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho692-top.html</link>
+      <description />
+      <pubDate>Wed, 25 Feb 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho692-top.html</guid>
+    </item>
+    <item>
+      <title>令和8年1月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html</link>
+      <description />
+      <pubDate>Mon, 09 Feb 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html</guid>
+    </item>
+    <item>
+      <title>ジオAI（地理空間情報×AI）の推進に向けた議論を開始します！ ～ 「ジオAI研究会」（第１回）の開催 ～</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan61031.html</link>
+      <description />
+      <pubDate>Thu, 05 Feb 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61031.html</guid>
+    </item>
+    <item>
+      <title>令和7年（2025年）青森県東方沖の地震に伴い改定した三角点測量成果及び座標補正パラメータの公表について</title>
+      <link>http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html</link>
+      <description />
+      <pubDate>Thu, 05 Feb 2026 00:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】関東地区官庁オープンツアー＜技術系区分＞（採用関連イベント）（3月6日開催）</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html</link>
+      <description />
+      <pubDate>Mon, 02 Feb 2026 00:45:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】関東地区官庁オープンツアー＜行政・教養区分＞（採用関連イベント）</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/tourR7.html</link>
+      <description />
+      <pubDate>Sun, 01 Feb 2026 23:55:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/tourR7.html</guid>
+    </item>
+    <item>
+      <title>国土地理院業務説明会（技術系）をオンラインで開催します（2月27日開催）</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html</link>
+      <description />
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集１</title>
+      <link>http://www.gsi.go.jp/jinji/temporary.202604_00001.html</link>
+      <description />
+      <pubDate>Thu, 29 Jan 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202604_00001.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集２</title>
+      <link>http://www.gsi.go.jp/jinji/temporary.202604_00002.html</link>
+      <description />
+      <pubDate>Thu, 29 Jan 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202604_00002.html</guid>
+    </item>
+    <item>
+      <title>地理院地図（中・小縮尺タイル）のリニューアル（予告）～情報の充実と表現の統一感向上を図ります～</title>
+      <link>http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html</link>
+      <description />
+      <pubDate>Wed, 28 Jan 2026 03:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html</guid>
+    </item>
+    <item>
+      <title>国土地理院広報第６９１号を掲載</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho691-top.html</link>
+      <description />
+      <pubDate>Mon, 26 Jan 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho691-top.html</guid>
+    </item>
+    <item>
+      <title>ご質問・ご意見ウェブページ 問合せフォームの不具合について</title>
+      <link>http://www.gsi.go.jp/kohokocho/kanrisya50001_00161.html</link>
+      <description />
+      <pubDate>Mon, 26 Jan 2026 02:36:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kanrisya50001_00161.html</guid>
+    </item>
+    <item>
+      <title>電子地形図50000の全国整備が完了！ ～全国どこでも地域の概況を捉えられます～</title>
+      <link>http://www.gsi.go.jp/chizuhensyu/chizuhensyu61007.html</link>
+      <description />
+      <pubDate>Thu, 22 Jan 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chizuhensyu/chizuhensyu61007.html</guid>
+    </item>
+    <item>
+      <title>太陽フレアによる1月20日のGNSS測位への影響</title>
+      <link>http://www.gsi.go.jp/denshi/denshi65020.html</link>
+      <description />
+      <pubDate>Wed, 21 Jan 2026 08:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi65020.html</guid>
+    </item>
+    <item>
+      <title>太陽フレアによる1月20日の地磁気への影響</title>
+      <link>http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html</link>
+      <description />
+      <pubDate>Wed, 21 Jan 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html</guid>
+    </item>
+    <item>
+      <title>指名停止措置について</title>
+      <link>http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61015.html</link>
+      <description />
+      <pubDate>Mon, 19 Jan 2026 05:45:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61015.html</guid>
+    </item>
+    <item>
+      <title>【採用関連イベント】国土地理院 冬の職場訪問を開催します（2月17日開催）</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html</link>
+      <description />
+      <pubDate>Fri, 16 Jan 2026 00:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html</guid>
+    </item>
+    <item>
+      <title>令和8年1月6日10時18分頃の島根県東部の地震に伴う地殻変動</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html</link>
+      <description />
+      <pubDate>Wed, 14 Jan 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html</guid>
+    </item>
+    <item>
+      <title>令和7年12月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html</link>
+      <description />
+      <pubDate>Tue, 13 Jan 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html</guid>
+    </item>
+    <item>
+      <title>【お知らせ】測量計算サイト等のサービス再開について</title>
+      <link>http://www.gsi.go.jp/sokuchikijun/sokuchikijun41132.html</link>
+      <description />
+      <pubDate>Mon, 05 Jan 2026 04:15:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/sokuchikijun41132.html</guid>
+    </item>
+    <item>
+      <title>令和８年度国土地理院関係予算決定概要</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/r8yosan.html</link>
+      <description />
+      <pubDate>Fri, 26 Dec 2025 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/r8yosan.html</guid>
+    </item>
+    <item>
+      <title>令和7年12月8日23時15分頃の青森県東方沖の地震に伴う地殻変動（第3報）</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20251208_aomoriken-tohooki_3.html</link>
+      <description />
+      <pubDate>Thu, 25 Dec 2025 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20251208_aomoriken-tohooki_3.html</guid>
+    </item>
+  </channel>
+</rss>
