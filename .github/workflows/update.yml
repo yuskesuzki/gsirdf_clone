@@ -21,19 +21,20 @@ jobs:
           python-version: '3.11' # 安定版を指定
 
       - name: Install dependencies
-        # curl_cffi をインストールします
-        run: pip install curl_cffi
+        # beautifulsoup4 を追加
+        run: pip install curl_cffi beautifulsoup4
 
-      - name: Fetch RDF
+      - name: Fetch and Fix RDF
         run: python update_feed.py
 
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add gsi_updates.rdf
+          # 拡張子を .xml に変更
+          git add gsi_updates.xml
           if ! git diff --cached --exit-code; then
-            git commit -m "Update GSI RDF feed"
+            git commit -m "Update and repair GSI feed"
             git push
           else
             echo "No changes detected."
