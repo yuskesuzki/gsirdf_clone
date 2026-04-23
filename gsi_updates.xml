@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>第55回国土地理院報告会を開催します（6月3日）</title>
+      <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
+      <description />
+      <pubDate>Thu, 23 Apr 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</guid>
+    </item>
+    <item>
       <title>アクションプラン2026を策定しました</title>
       <link>http://www.gsi.go.jp/kikakuchousei/actionplan2026.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Wed, 14 Jan 2026 07:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html</guid>
-    </item>
-    <item>
-      <title>令和7年12月の地殻変動</title>
-      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html</link>
-      <description />
-      <pubDate>Tue, 13 Jan 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0113.html</guid>
     </item>
   </channel>
 </rss>
