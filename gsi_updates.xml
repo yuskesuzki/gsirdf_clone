@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年（2026年）　三陸沖の地震に伴う基準点成果等の取扱いについて</title>
+      <link>http://www.gsi.go.jp/sokuchikijun/R8-sanrikuoki-earthquake-seika.html</link>
+      <description />
+      <pubDate>Fri, 24 Apr 2026 04:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R8-sanrikuoki-earthquake-seika.html</guid>
+    </item>
+    <item>
       <title>第55回国土地理院報告会を開催します（6月3日）</title>
       <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Fri, 16 Jan 2026 00:30:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html</guid>
-    </item>
-    <item>
-      <title>令和8年1月6日10時18分頃の島根県東部の地震に伴う地殻変動</title>
-      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html</link>
-      <description />
-      <pubDate>Wed, 14 Jan 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260106_shimaneken-tobu.html</guid>
     </item>
   </channel>
 </rss>
