@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院広報第６９４号を掲載</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho694-top.html</link>
+      <description />
+      <pubDate>Mon, 27 Apr 2026 07:49:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho694-top.html</guid>
+    </item>
+    <item>
       <title>令和8年（2026年）　三陸沖の地震に伴う基準点成果等の取扱いについて</title>
       <link>http://www.gsi.go.jp/sokuchikijun/R8-sanrikuoki-earthquake-seika.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Mon, 19 Jan 2026 05:45:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61015.html</guid>
-    </item>
-    <item>
-      <title>【採用関連イベント】国土地理院 冬の職場訪問を開催します（2月17日開催）</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html</link>
-      <description />
-      <pubDate>Fri, 16 Jan 2026 00:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202602_openseminar.html</guid>
     </item>
   </channel>
 </rss>
