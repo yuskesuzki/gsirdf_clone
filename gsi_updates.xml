@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2市区町村2基の自然災害伝承碑を追加し、全国で681市区町村2,442基を公開</title>
+      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
+      <description />
+      <pubDate>Thu, 30 Apr 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
+    </item>
+    <item>
       <title>国土地理院広報第６９４号を掲載</title>
       <link>http://www.gsi.go.jp/kohokocho/koho694-top.html</link>
       <description />
@@ -130,13 +137,6 @@
       <description />
       <pubDate>Thu, 26 Mar 2026 00:05:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi45051.html</guid>
-    </item>
-    <item>
-      <title>13市区町村24基の自然災害伝承碑を追加し、全国で681市区町村2,440基を公開</title>
-      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
-      <description />
-      <pubDate>Thu, 26 Mar 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
     </item>
     <item>
       <title>民間の観測施設も活用して全国の地殻変動の監視を強化－地震に伴う地殻変動の情報がより詳細に－</title>
