@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>第55回国土地理院報告会の会場参加の事前受付を開始しました</title>
+      <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
+      <description />
+      <pubDate>Fri, 01 May 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</guid>
+    </item>
+    <item>
       <title>2市区町村2基の自然災害伝承碑を追加し、全国で681市区町村2,442基を公開</title>
       <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
       <description />
@@ -32,13 +39,6 @@
       <description />
       <pubDate>Fri, 24 Apr 2026 04:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R8-sanrikuoki-earthquake-seika.html</guid>
-    </item>
-    <item>
-      <title>第55回国土地理院報告会を開催します（6月3日）</title>
-      <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
-      <description />
-      <pubDate>Thu, 23 Apr 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</guid>
     </item>
     <item>
       <title>アクションプラン2026を策定しました</title>
