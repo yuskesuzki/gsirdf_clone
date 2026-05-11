@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用情報】国家公務員一般職試験（技術系区分）既合格者向け早期官庁訪問</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</link>
+      <description />
+      <pubDate>Mon, 11 May 2026 02:15:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</guid>
+    </item>
+    <item>
       <title>第55回国土地理院報告会の会場参加の事前受付を開始しました</title>
       <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Wed, 21 Jan 2026 08:30:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi65020.html</guid>
-    </item>
-    <item>
-      <title>太陽フレアによる1月20日の地磁気への影響</title>
-      <link>http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html</link>
-      <description />
-      <pubDate>Wed, 21 Jan 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/buturisokuchi/info_geomag_storm_20260120.html</guid>
     </item>
   </channel>
 </rss>
