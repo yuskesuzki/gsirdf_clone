@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和８年測量士・測量士補試験問題・解答を公表しました</title>
+      <link>http://www.gsi.go.jp/LAW/SHIKEN/past.html</link>
+      <description />
+      <pubDate>Mon, 18 May 2026 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/past.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
+      <link>http://www.gsi.go.jp/jinji/temporary.202608_00001.html</link>
+      <description />
+      <pubDate>Sun, 17 May 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202608_00001.html</guid>
+    </item>
+    <item>
       <title>令和8年4月の地殻変動</title>
       <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0513.html</link>
       <description />
@@ -326,20 +340,6 @@
       <description />
       <pubDate>Fri, 30 Jan 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集１</title>
-      <link>http://www.gsi.go.jp/jinji/temporary.202604_00001.html</link>
-      <description />
-      <pubDate>Thu, 29 Jan 2026 23:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202604_00001.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集２</title>
-      <link>http://www.gsi.go.jp/jinji/temporary.202604_00002.html</link>
-      <description />
-      <pubDate>Thu, 29 Jan 2026 23:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202604_00002.html</guid>
     </item>
     <item>
       <title>地理院地図（中・小縮尺タイル）のリニューアル（予告）～情報の充実と表現の統一感向上を図ります～</title>
