@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>防災に重要な施設である流水型ダムの図式を定め、地図表現を変更しました。</title>
+      <link>http://www.gsi.go.jp/kibanjoho/kibanjoho41098.html</link>
+      <description />
+      <pubDate>Fri, 22 May 2026 01:20:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kibanjoho/kibanjoho41098.html</guid>
+    </item>
+    <item>
       <title>「ジオAI研究会」（第４回）を開催します ～ これまでの研究会を踏まえた中間整理案について議論します ～</title>
       <link>http://www.gsi.go.jp/chirikukan/chirikukan61036.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Sun, 01 Feb 2026 23:55:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/tourR7.html</guid>
-    </item>
-    <item>
-      <title>国土地理院業務説明会（技術系）をオンラインで開催します（2月27日開催）</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html</link>
-      <description />
-      <pubDate>Fri, 30 Jan 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/setsumeikaiR7-5.html</guid>
     </item>
   </channel>
 </rss>
