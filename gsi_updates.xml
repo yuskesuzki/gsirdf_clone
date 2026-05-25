@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用情報】国家公務員一般職試験（技術系区分）既合格者向け早期官庁訪問の採用面接の予約を開始します</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</link>
+      <description />
+      <pubDate>Mon, 25 May 2026 00:20:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</guid>
+    </item>
+    <item>
       <title>2026「測量の日」特別企画を開催</title>
       <link>http://www.gsi.go.jp/kohokocho/kohokocho65060.html</link>
       <description />
@@ -81,13 +88,6 @@
       <description />
       <pubDate>Wed, 13 May 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/sokuryo2026.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】国家公務員一般職試験（技術系区分）既合格者向け早期官庁訪問</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</link>
-      <description />
-      <pubDate>Mon, 11 May 2026 02:15:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</guid>
     </item>
     <item>
       <title>第55回国土地理院報告会の会場参加の事前受付を開始しました</title>
@@ -258,13 +258,6 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi_20250328.html</guid>
     </item>
     <item>
-      <title>【採用情報】国家公務員総合職試験（技術系区分）既合格者向け官庁訪問</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html</link>
-      <description />
-      <pubDate>Mon, 23 Mar 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou01.html</guid>
-    </item>
-    <item>
       <title>令和8年1月1日時点の全国都道府県市区町村別の面積を公表</title>
       <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
       <description />
@@ -354,6 +347,13 @@
       <description />
       <pubDate>Thu, 05 Feb 2026 00:30:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】関東地区官庁オープンツアー＜技術系区分＞（採用関連イベント）（3月6日開催）</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html</link>
+      <description />
+      <pubDate>Mon, 02 Feb 2026 00:45:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202603kanto-open.html</guid>
     </item>
   </channel>
 </rss>
