@@ -6,6 +6,34 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用情報】座談会（対面）＜一般職大卒程度　行政・教養＞を開催します</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00002.html</link>
+      <description />
+      <pubDate>Thu, 28 May 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00002.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】国土地理院業務説明会＜一般職大卒程度　行政・教養＞を開催します</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00001.html</link>
+      <description />
+      <pubDate>Thu, 28 May 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00001.html</guid>
+    </item>
+    <item>
+      <title>2市区町村2基の自然災害伝承碑を追加し、全国で683市区町村2,444基を公開</title>
+      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
+      <description />
+      <pubDate>Thu, 28 May 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】国家公務員総合職試験（技術系区分）今年度合格者および既合格者向け官庁訪問の実施について</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou0610.html</link>
+      <description />
+      <pubDate>Wed, 27 May 2026 07:15:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou0610.html</guid>
+    </item>
+    <item>
       <title>第55回国土地理院報告会の会場参加の事前登録は6月1日までとなります</title>
       <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
       <description />
@@ -326,34 +354,6 @@
       <description />
       <pubDate>Wed, 25 Feb 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html</guid>
-    </item>
-    <item>
-      <title>国土地理院広報第６９２号を掲載</title>
-      <link>http://www.gsi.go.jp/kohokocho/koho692-top.html</link>
-      <description />
-      <pubDate>Wed, 25 Feb 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho692-top.html</guid>
-    </item>
-    <item>
-      <title>令和8年1月の地殻変動</title>
-      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html</link>
-      <description />
-      <pubDate>Mon, 09 Feb 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0209.html</guid>
-    </item>
-    <item>
-      <title>ジオAI（地理空間情報×AI）の推進に向けた議論を開始します！ ～ 「ジオAI研究会」（第１回）の開催 ～</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan61031.html</link>
-      <description />
-      <pubDate>Thu, 05 Feb 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61031.html</guid>
-    </item>
-    <item>
-      <title>令和7年（2025年）青森県東方沖の地震に伴い改定した三角点測量成果及び座標補正パラメータの公表について</title>
-      <link>http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html</link>
-      <description />
-      <pubDate>Thu, 05 Feb 2026 00:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R7-aomoritohooki-earthquake-seika.html</guid>
     </item>
   </channel>
 </rss>
