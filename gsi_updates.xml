@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>「ジオAI研究会 中間整理」を公表します！ ～ 地理空間情報×AIの融合の推進に向けて ～</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan61037.html</link>
+      <description />
+      <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61037.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】令和８年度国土交通省国土地理院選考採用試験（社会人経験者・係長級（事務））のご案内</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/jimusenkou2026_00001.html</link>
+      <description />
+      <pubDate>Fri, 29 May 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/jimusenkou2026_00001.html</guid>
+    </item>
+    <item>
       <title>【採用情報】座談会（対面）＜一般職大卒程度　行政・教養＞を開催します</title>
       <link>http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00002.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Sun, 01 Mar 2026 23:30:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html</guid>
-    </item>
-    <item>
-      <title>１ｍメッシュ（標高）及び５ｍメッシュ（標高）の提供範囲を拡大しました</title>
-      <link>http://www.gsi.go.jp/gazochosa/gazochosa41021.html</link>
-      <description />
-      <pubDate>Fri, 27 Feb 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/gazochosa41021.html</guid>
-    </item>
-    <item>
-      <title>測量行政懇談会（第32回）の開催について</title>
-      <link>http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html</link>
-      <description />
-      <pubDate>Wed, 25 Feb 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/seisakuchousei/seisakuchousei61011.html</guid>
     </item>
   </channel>
 </rss>
