@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>「３次元地図可視化サイト」を試験公開～国土の姿をより分かりやすく～</title>
+      <link>http://www.gsi.go.jp/johofukyu/johofukyu60001_00018.html</link>
+      <description />
+      <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/johofukyu/johofukyu60001_00018.html</guid>
+    </item>
+    <item>
+      <title>２万５千分１地形図（柾判　多色）の価格改定のお知らせ（令和８年７月１日予定）</title>
+      <link>http://www.gsi.go.jp/SERVICE/keiyaku/20260601_00001.html</link>
+      <description />
+      <pubDate>Sun, 31 May 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/20260601_00001.html</guid>
+    </item>
+    <item>
       <title>「ジオAI研究会 中間整理」を公表します！ ～ 地理空間情報×AIの融合の推進に向けて ～</title>
       <link>http://www.gsi.go.jp/chirikukan/chirikukan61037.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Mon, 09 Mar 2026 07:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html</guid>
-    </item>
-    <item>
-      <title>20年の感謝を込めて！国土地理院からJAXAに感謝状を贈呈</title>
-      <link>http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html</link>
-      <description />
-      <pubDate>Mon, 02 Mar 2026 02:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/uchusokuchi20260227.html</guid>
-    </item>
-    <item>
-      <title>数値地図（オンライン）の価格改定のお知らせ（令和8年4月1日予定）</title>
-      <link>http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html</link>
-      <description />
-      <pubDate>Sun, 01 Mar 2026 23:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/20260302_00001.html</guid>
     </item>
   </channel>
 </rss>
