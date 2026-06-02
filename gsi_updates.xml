@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>台風6号接近に伴う国土地理院報告会（6月3日）の開催に関するお知らせ</title>
+      <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
+      <description />
+      <pubDate>Tue, 02 Jun 2026 05:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</guid>
+    </item>
+    <item>
+      <title>指名停止措置について</title>
+      <link>http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61018.html</link>
+      <description />
+      <pubDate>Tue, 02 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61018.html</guid>
+    </item>
+    <item>
       <title>「３次元地図可視化サイト」を試験公開～国土の姿をより分かりやすく～</title>
       <link>http://www.gsi.go.jp/johofukyu/johofukyu60001_00018.html</link>
       <description />
@@ -60,13 +74,6 @@
       <description />
       <pubDate>Wed, 27 May 2026 07:15:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou0610.html</guid>
-    </item>
-    <item>
-      <title>第55回国土地理院報告会の会場参加の事前登録は6月1日までとなります</title>
-      <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
-      <description />
-      <pubDate>Tue, 26 May 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</guid>
     </item>
     <item>
       <title>国土地理院広報第６９５号を掲載</title>
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Tue, 10 Mar 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65055.html</guid>
-    </item>
-    <item>
-      <title>令和8年2月の地殻変動</title>
-      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html</link>
-      <description />
-      <pubDate>Mon, 09 Mar 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0309.html</guid>
     </item>
   </channel>
 </rss>
