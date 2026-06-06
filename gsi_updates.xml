@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和８年度「測量の日」における功労者感謝状贈呈式を行います</title>
+      <link>http://www.gsi.go.jp/kohokocho/kohokocho65062.html</link>
+      <description />
+      <pubDate>Fri, 05 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65062.html</guid>
+    </item>
+    <item>
       <title>令和８年(2026年)台風第６号に関する情報</title>
       <link>http://www.gsi.go.jp/BOUSAI/R8_taihuu6gou.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Wed, 18 Mar 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html</guid>
-    </item>
-    <item>
-      <title>企画展“｢地図と測量の科学館｣開館３０周年記念特別展”を開催 ～過去の企画展の振り返りと３０年の歩みなどを紹介～</title>
-      <link>http://www.gsi.go.jp/kohokocho/kohokocho65055.html</link>
-      <description />
-      <pubDate>Tue, 10 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65055.html</guid>
     </item>
   </channel>
 </rss>
