@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
+      <link>http://www.gsi.go.jp/jinji/temporary.202608_00002.html</link>
+      <description />
+      <pubDate>Mon, 08 Jun 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202608_00002.html</guid>
+    </item>
+    <item>
       <title>令和８年度「測量の日」における功労者感謝状贈呈式を行います</title>
       <link>http://www.gsi.go.jp/kohokocho/kohokocho65062.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Thu, 19 Mar 2026 00:11:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/gazochosa41020.html</guid>
-    </item>
-    <item>
-      <title>火山防災関連施設データの公開　～火山噴火時の緊急避難施設を地理院地図で確認し、もしもに備えよう～</title>
-      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html</link>
-      <description />
-      <pubDate>Wed, 18 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61056.html</guid>
     </item>
   </channel>
 </rss>
