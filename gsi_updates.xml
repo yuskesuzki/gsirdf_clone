@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年5月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0608.html</link>
+      <description />
+      <pubDate>Mon, 08 Jun 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0608.html</guid>
+    </item>
+    <item>
       <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
       <link>http://www.gsi.go.jp/jinji/temporary.202608_00002.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Thu, 19 Mar 2026 01:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</guid>
-    </item>
-    <item>
-      <title>航空レーザ測量によって得られた「点群データ」の刊行範囲を拡大</title>
-      <link>http://www.gsi.go.jp/gazochosa/gazochosa41020.html</link>
-      <description />
-      <pubDate>Thu, 19 Mar 2026 00:11:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/gazochosa41020.html</guid>
     </item>
   </channel>
 </rss>
