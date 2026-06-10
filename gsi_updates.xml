@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>第55回国土地理院報告会のオンデマンド配信を開始（6月10日～6月30日）</title>
+      <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
+      <description />
+      <pubDate>Wed, 10 Jun 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</guid>
+    </item>
+    <item>
       <title>令和8年5月の地殻変動</title>
       <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0608.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi_20250328.html</guid>
-    </item>
-    <item>
-      <title>令和8年1月1日時点の全国都道府県市区町村別の面積を公表</title>
-      <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
-      <description />
-      <pubDate>Thu, 19 Mar 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</guid>
     </item>
   </channel>
 </rss>
