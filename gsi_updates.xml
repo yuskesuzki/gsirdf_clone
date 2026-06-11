@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026年6月8日フィリピン付近の地震に伴う地殻変動</title>
+      <link>http://www.gsi.go.jp/cais/topic20260608_PhilippineEQ.html</link>
+      <description />
+      <pubDate>Wed, 10 Jun 2026 08:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/cais/topic20260608_PhilippineEQ.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】令和８年度国土地理院業務説明会（社会人経験者・係長級　事務）のご案内</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/jimusenkousetsumei2026_00001.html</link>
+      <description />
+      <pubDate>Wed, 10 Jun 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/jimusenkousetsumei2026_00001.html</guid>
+    </item>
+    <item>
       <title>第55回国土地理院報告会のオンデマンド配信を開始（6月10日～6月30日）</title>
       <link>http://www.gsi.go.jp/REPORT/HAPPYOU/houkokukai.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html</guid>
-    </item>
-    <item>
-      <title>３次元電子国土基本図の提供を開始！～全国の地図を３次元化しデジタル社会に貢献～</title>
-      <link>http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html</link>
-      <description />
-      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kibanjoho/kibanjoho61008.html</guid>
-    </item>
-    <item>
-      <title>新しい「電子基準点日々の座標値（F5.1解）」を試験公開します【追記】</title>
-      <link>http://www.gsi.go.jp/denshi/denshi_20250328.html</link>
-      <description />
-      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi_20250328.html</guid>
     </item>
   </channel>
 </rss>
