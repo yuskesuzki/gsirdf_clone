@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>地理空間情報の未来へ挑戦！～生徒・学生部門を新設した「Geoアクティビティコンテスト」の募集開始！～</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan61039.html</link>
+      <description />
+      <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
+    </item>
+    <item>
+      <title>2026年度「Geoアクティビティコンテスト」作品募集</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan41052.html</link>
+      <description />
+      <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan41052.html</guid>
+    </item>
+    <item>
       <title>2026年6月8日フィリピン付近の地震に伴う地殻変動</title>
       <link>http://www.gsi.go.jp/cais/topic20260608_PhilippineEQ.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61032.html</guid>
-    </item>
-    <item>
-      <title>国土地理院広報第６９３号を掲載</title>
-      <link>http://www.gsi.go.jp/kohokocho/koho693-top.html</link>
-      <description />
-      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho693-top.html</guid>
-    </item>
-    <item>
-      <title>災害時に滞在するための施設を地図で簡単に確認　～地理院地図で「指定避難所」の情報を公開～</title>
-      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html</link>
-      <description />
-      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61058.html</guid>
     </item>
   </channel>
 </rss>
