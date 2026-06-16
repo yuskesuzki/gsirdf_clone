@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用案内】官庁合同業務説明会に参加します</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</link>
+      <description />
+      <pubDate>Tue, 16 Jun 2026 02:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】2026年度官庁訪問（一般職事務系（大卒程度））の実施について</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/kanchohomonR08_00001.html</link>
+      <description />
+      <pubDate>Tue, 16 Jun 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/kanchohomonR08_00001.html</guid>
+    </item>
+    <item>
       <title>地理空間情報の未来へ挑戦！～生徒・学生部門を新設した「Geoアクティビティコンテスト」の募集開始！～</title>
       <link>http://www.gsi.go.jp/chirikukan/chirikukan61039.html</link>
       <description />
@@ -13,11 +27,11 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
     </item>
     <item>
-      <title>2026年度「Geoアクティビティコンテスト」作品募集</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan41052.html</link>
+      <title>【採用情報】国家公務員一般職試験（技術系区分）今年度合格者および既合格者向け官庁訪問の実施について</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_ippan0702.html</link>
       <description />
-      <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan41052.html</guid>
+      <pubDate>Mon, 15 Jun 2026 02:04:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_ippan0702.html</guid>
     </item>
     <item>
       <title>2026年6月8日フィリピン付近の地震に伴う地殻変動</title>
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Thu, 26 Mar 2026 00:05:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi45051.html</guid>
-    </item>
-    <item>
-      <title>民間の観測施設も活用して全国の地殻変動の監視を強化－地震に伴う地殻変動の情報がより詳細に－</title>
-      <link>http://www.gsi.go.jp/chibankansi/minkan_20260326.html</link>
-      <description />
-      <pubDate>Wed, 25 Mar 2026 23:28:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/minkan_20260326.html</guid>
-    </item>
-    <item>
-      <title>「ジオAI研究会」（第２回）を開催します ～ 第１回研究会を踏まえた課題・論点の整理などを議論します ～</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan61032.html</link>
-      <description />
-      <pubDate>Wed, 25 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61032.html</guid>
     </item>
   </channel>
 </rss>
