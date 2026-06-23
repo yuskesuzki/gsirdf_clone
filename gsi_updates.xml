@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>6月29日のネットワークメンテナンスについて</title>
+      <link>http://www.gsi.go.jp/johosystem/johosystem45044.html</link>
+      <description />
+      <pubDate>Mon, 22 Jun 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/johosystem/johosystem45044.html</guid>
+    </item>
+    <item>
       <title>【採用案内】官庁合同業務説明会に参加します</title>
       <link>http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</link>
       <description />
@@ -319,13 +326,6 @@
       <description />
       <pubDate>Tue, 31 Mar 2026 15:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/internship.html</guid>
-    </item>
-    <item>
-      <title>4月9日のネットワークメンテナンスについて</title>
-      <link>http://www.gsi.go.jp/johosystem/johosystem45044.html</link>
-      <description />
-      <pubDate>Tue, 31 Mar 2026 07:20:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/johosystem/johosystem45044.html</guid>
     </item>
     <item>
       <title>民間等電子基準点の登録に向けた品質評価申請サイトの試験公開</title>
