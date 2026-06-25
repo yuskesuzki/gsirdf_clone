@@ -6,6 +6,27 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院広報第６９６号を掲載</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho696-top.html</link>
+      <description />
+      <pubDate>Thu, 25 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho696-top.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】国家公務員一般職試験（技術系区分）今年度合格者および既合格者向け官庁訪問の予約受付を開始します</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_ippan0702.html</link>
+      <description />
+      <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_ippan0702.html</guid>
+    </item>
+    <item>
+      <title>令和８年測量士補試験の合格者を発表</title>
+      <link>http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260625_00001.html</link>
+      <description />
+      <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260625_00001.html</guid>
+    </item>
+    <item>
       <title>6月29日のネットワークメンテナンスについて</title>
       <link>http://www.gsi.go.jp/johosystem/johosystem45044.html</link>
       <description />
@@ -32,13 +53,6 @@
       <description />
       <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】国家公務員一般職試験（技術系区分）今年度合格者および既合格者向け官庁訪問の実施について</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_ippan0702.html</link>
-      <description />
-      <pubDate>Mon, 15 Jun 2026 02:04:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_ippan0702.html</guid>
     </item>
     <item>
       <title>2026年6月8日フィリピン付近の地震に伴う地殻変動</title>
@@ -139,13 +153,6 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00001.html</guid>
     </item>
     <item>
-      <title>2市区町村2基の自然災害伝承碑を追加し、全国で683市区町村2,444基を公開</title>
-      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
-      <description />
-      <pubDate>Thu, 28 May 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
-    </item>
-    <item>
       <title>【採用情報】国家公務員総合職試験（技術系区分）今年度合格者および既合格者向け官庁訪問の実施について</title>
       <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou0610.html</link>
       <description />
@@ -207,13 +214,6 @@
       <description />
       <pubDate>Thu, 21 May 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61059.html</guid>
-    </item>
-    <item>
-      <title>令和８年測量士・測量士補試験問題・解答を公表しました</title>
-      <link>http://www.gsi.go.jp/LAW/SHIKEN/past.html</link>
-      <description />
-      <pubDate>Mon, 18 May 2026 06:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/past.html</guid>
     </item>
     <item>
       <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
