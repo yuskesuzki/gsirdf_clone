@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年6月26日22時29分頃の山梨県東部・富士五湖の地震に伴う地殻変動</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260626_yamanashifuji.html</link>
+      <description />
+      <pubDate>Sat, 27 Jun 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260626_yamanashifuji.html</guid>
+    </item>
+    <item>
       <title>令和8年4月1日時点の全国都道府県市区町村別の面積を公表</title>
       <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Tue, 31 Mar 2026 06:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi45052.html</guid>
-    </item>
-    <item>
-      <title>新しい「電子基準点日々の座標値（F5.1解）」を公開します</title>
-      <link>http://www.gsi.go.jp/denshi/denshi65021.html</link>
-      <description />
-      <pubDate>Tue, 31 Mar 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi65021.html</guid>
     </item>
   </channel>
 </rss>
