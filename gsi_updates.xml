@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【予告】地名情報で取り扱う漢字の仕様を一部変更します。</title>
+      <link>http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41222.html</link>
+      <description />
+      <pubDate>Thu, 02 Jul 2026 01:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41222.html</guid>
+    </item>
+    <item>
       <title>これでわかる！身の回りの自然災害リスク　～北海道などの地形分類データ「数値地図25000（土地条件）」を公開～</title>
       <link>http://www.gsi.go.jp/bousaichiri/lc_topic_20260701_00001.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Tue, 31 Mar 2026 15:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/internship.html</guid>
-    </item>
-    <item>
-      <title>民間等電子基準点の登録に向けた品質評価申請サイトの試験公開</title>
-      <link>http://www.gsi.go.jp/denshi/denshi45052.html</link>
-      <description />
-      <pubDate>Tue, 31 Mar 2026 06:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/denshi/denshi45052.html</guid>
     </item>
   </channel>
 </rss>
