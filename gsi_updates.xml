@@ -6,6 +6,27 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和８年測量士試験の合格者を発表</title>
+      <link>http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260709_00002.html</link>
+      <description />
+      <pubDate>Thu, 09 Jul 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260709_00002.html</guid>
+    </item>
+    <item>
+      <title>令和8年6月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0708.html</link>
+      <description />
+      <pubDate>Wed, 08 Jul 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0708.html</guid>
+    </item>
+    <item>
+      <title>令和8年6月25日7時30分頃の岩手県沖の地震に伴う地殻変動（第2報）</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260625_iwate_2.html</link>
+      <description />
+      <pubDate>Wed, 08 Jul 2026 06:55:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260625_iwate_2.html</guid>
+    </item>
+    <item>
       <title>【予告】地名情報で取り扱う漢字の仕様を一部変更します。</title>
       <link>http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41222.html</link>
       <description />
@@ -333,27 +354,6 @@
       <description />
       <pubDate>Thu, 16 Apr 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61034.html</guid>
-    </item>
-    <item>
-      <title>令和８年測量士・測量士補試験の試験会場を公表しました</title>
-      <link>http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html</link>
-      <description />
-      <pubDate>Thu, 16 Apr 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikenkaijyouR8_00001.html</guid>
-    </item>
-    <item>
-      <title>令和8年3月の地殻変動</title>
-      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html</link>
-      <description />
-      <pubDate>Wed, 08 Apr 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0408.html</guid>
-    </item>
-    <item>
-      <title>職場体験実習生（インターンシップ生）を募集します（技術系）</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/internship.html</link>
-      <description />
-      <pubDate>Tue, 31 Mar 2026 15:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/internship.html</guid>
     </item>
   </channel>
 </rss>
