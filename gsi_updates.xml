@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026年度 国家公務員OPENゼミ 第1弾【理系学生限定】1Day職場訪問･仕事体験の開催について</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/202607openseminar.html</link>
+      <description />
+      <pubDate>Fri, 10 Jul 2026 04:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202607openseminar.html</guid>
+    </item>
+    <item>
       <title>令和８年測量士試験の合格者を発表</title>
       <link>http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260709_00002.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Fri, 17 Apr 2026 02:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/sokuryosidou/sokuryosidou41062.html</guid>
-    </item>
-    <item>
-      <title>「ジオAI研究会」（第３回）を開催します ～ これまでの研究会を踏まえた取組の方向性を議論します ～</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan61034.html</link>
-      <description />
-      <pubDate>Thu, 16 Apr 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61034.html</guid>
     </item>
   </channel>
 </rss>
