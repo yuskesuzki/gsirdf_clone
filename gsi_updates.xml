@@ -76,13 +76,6 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260626_yamanashifuji.html</guid>
     </item>
     <item>
-      <title>令和8年4月1日時点の全国都道府県市区町村別の面積を公表</title>
-      <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
-      <description />
-      <pubDate>Fri, 26 Jun 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</guid>
-    </item>
-    <item>
       <title>令和8年6月25日7時30分頃の岩手県沖の地震に伴う地殻変動</title>
       <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260625_iwate.html</link>
       <description />
@@ -354,6 +347,13 @@
       <description />
       <pubDate>Tue, 21 Apr 2026 07:30:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260420_sanrikuoki.html</guid>
+    </item>
+    <item>
+      <title>令和８年（2026年）三陸沖の地震に関する情報</title>
+      <link>http://www.gsi.go.jp/BOUSAI/20260420_sanrikuoki_earthquake_00002.html</link>
+      <description />
+      <pubDate>Tue, 21 Apr 2026 05:26:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/BOUSAI/20260420_sanrikuoki_earthquake_00002.html</guid>
     </item>
   </channel>
 </rss>
