@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>「だいち２号」で捉えた令和8年（2026年）熊本地震に伴う地殻変動</title>
+      <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</link>
+      <description />
+      <pubDate>Wed, 29 Jul 2026 02:05:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</guid>
+    </item>
+    <item>
+      <title>令和8年熊本地震に伴う地殻変動（暫定）</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260728_kumamoto.html</link>
+      <description />
+      <pubDate>Tue, 28 Jul 2026 11:15:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260728_kumamoto.html</guid>
+    </item>
+    <item>
       <title>国土地理院広報第６９７号を掲載</title>
       <link>http://www.gsi.go.jp/kohokocho/koho697-top.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Fri, 24 Apr 2026 04:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R8-sanrikuoki-earthquake-seika.html</guid>
-    </item>
-    <item>
-      <title>アクションプラン2026を策定しました</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/actionplan2026.html</link>
-      <description />
-      <pubDate>Wed, 22 Apr 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/actionplan2026.html</guid>
-    </item>
-    <item>
-      <title>令和8年4月20日16時53分頃の三陸沖の地震に伴う地殻変動（第２報）</title>
-      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260420_sanrikuoki.html</link>
-      <description />
-      <pubDate>Tue, 21 Apr 2026 07:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260420_sanrikuoki.html</guid>
     </item>
   </channel>
 </rss>
