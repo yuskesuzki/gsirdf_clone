@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>「だいち２号」及び「だいち４号」で捉えた令和8年（2026年）熊本地震に伴う地殻変動</title>
+      <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</link>
+      <description />
+      <pubDate>Fri, 31 Jul 2026 11:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</guid>
+    </item>
+    <item>
       <title>１ｍメッシュ（標高）の提供範囲及び点群データの刊行範囲を拡大しました</title>
       <link>http://www.gsi.go.jp/gazochosa/gazochosa41019.html</link>
       <description />
@@ -25,13 +32,6 @@
       <description />
       <pubDate>Thu, 30 Jul 2026 23:59:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chizuhensyu/chizuhensyu41052.html</guid>
-    </item>
-    <item>
-      <title>「だいち２号」及び「だいち４号」で捉えた令和8年（2026年）熊本地震に伴う地殻変動</title>
-      <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</link>
-      <description />
-      <pubDate>Thu, 30 Jul 2026 09:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</guid>
     </item>
     <item>
       <title>令和８年熊本地震に伴う基準点成果の公表停止について</title>
