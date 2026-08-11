@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>熊本地震に伴い八代海沿岸地域では浸水や冠水にご注意ください</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/bousaichousei/kumamoto_20260810.html</link>
+      <description />
+      <pubDate>Mon, 10 Aug 2026 08:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/bousaichousei/kumamoto_20260810.html</guid>
+    </item>
+    <item>
+      <title>令和8年7月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0810.html</link>
+      <description />
+      <pubDate>Mon, 10 Aug 2026 08:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0810.html</guid>
+    </item>
+    <item>
       <title>「だいち２号」及び「だいち４号」で捉えた令和8年（2026年）熊本地震に伴う地殻変動</title>
       <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Thu, 21 May 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61036.html</guid>
-    </item>
-    <item>
-      <title>火山土地条件図「恵山」「鶴見岳・伽藍岳」を公開　～地形から読み解く火山防災のヒント～</title>
-      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61059.html</link>
-      <description />
-      <pubDate>Thu, 21 May 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61059.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
-      <link>http://www.gsi.go.jp/jinji/temporary.202608_00001.html</link>
-      <description />
-      <pubDate>Sun, 17 May 2026 23:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202608_00001.html</guid>
     </item>
   </channel>
 </rss>
