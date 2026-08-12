@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年熊本地震時の電子基準点1秒解析結果</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260812_kumamoto.html</link>
+      <description />
+      <pubDate>Wed, 12 Aug 2026 02:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260812_kumamoto.html</guid>
+    </item>
+    <item>
       <title>熊本地震に伴い八代海沿岸地域では浸水や冠水にご注意ください</title>
       <link>http://www.gsi.go.jp/kikakuchousei/bousaichousei/kumamoto_20260810.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Fri, 22 May 2026 01:20:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kibanjoho/kibanjoho41098.html</guid>
-    </item>
-    <item>
-      <title>「ジオAI研究会」（第４回）を開催します ～ これまでの研究会を踏まえた中間整理案について議論します ～</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan61036.html</link>
-      <description />
-      <pubDate>Thu, 21 May 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61036.html</guid>
     </item>
   </channel>
 </rss>
