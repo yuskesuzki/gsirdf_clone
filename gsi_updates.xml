@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年熊本地震における衛星SAR3次元解析による地殻変動（速報）</title>
+      <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto_3jigen.html</link>
+      <description />
+      <pubDate>Wed, 12 Aug 2026 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/20260728kumamoto_3jigen.html</guid>
+    </item>
+    <item>
+      <title>令和8年熊本地震に伴う地殻変動（第3報）</title>
+      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260728_kumamoto_3.html</link>
+      <description />
+      <pubDate>Wed, 12 Aug 2026 04:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260728_kumamoto_3.html</guid>
+    </item>
+    <item>
       <title>令和8年熊本地震時の電子基準点1秒解析結果</title>
       <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260812_kumamoto.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Fri, 22 May 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65060.html</guid>
-    </item>
-    <item>
-      <title>国土地理院所蔵の古地図を展示します　～地図と測量の科学館 開館30周年事業～</title>
-      <link>http://www.gsi.go.jp/kohokocho/kohokocho65057.html</link>
-      <description />
-      <pubDate>Fri, 22 May 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65057.html</guid>
-    </item>
-    <item>
-      <title>防災に重要な施設である流水型ダムの図式を定め、地図表現を変更しました。</title>
-      <link>http://www.gsi.go.jp/kibanjoho/kibanjoho41098.html</link>
-      <description />
-      <pubDate>Fri, 22 May 2026 01:20:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kibanjoho/kibanjoho41098.html</guid>
     </item>
   </channel>
 </rss>
