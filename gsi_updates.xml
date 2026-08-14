@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年熊本地震に伴い改定した電子基準点等の測量成果の公表について</title>
+      <link>http://www.gsi.go.jp/sokuchikijun/R8-kumamoto-earthquake-seika.html</link>
+      <description />
+      <pubDate>Fri, 14 Aug 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R8-kumamoto-earthquake-seika.html</guid>
+    </item>
+    <item>
       <title>令和8年熊本地震における衛星SAR3次元解析による地殻変動（速報）</title>
       <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto_3jigen.html</link>
       <description />
@@ -67,13 +74,6 @@
       <description />
       <pubDate>Thu, 30 Jul 2026 23:59:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chizuhensyu/chizuhensyu41052.html</guid>
-    </item>
-    <item>
-      <title>令和８年熊本地震に伴う基準点成果の公表停止について</title>
-      <link>http://www.gsi.go.jp/sokuchikijun/R8-kumamoto-earthquake-seika.html</link>
-      <description />
-      <pubDate>Thu, 30 Jul 2026 08:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R8-kumamoto-earthquake-seika.html</guid>
     </item>
     <item>
       <title>2市区町村10基の自然災害伝承碑を追加し、全国で683市区町村2,463基を公開</title>
