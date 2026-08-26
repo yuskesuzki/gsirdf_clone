@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院広報第６９８号を掲載</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho698-top.html</link>
+      <description />
+      <pubDate>Tue, 25 Aug 2026 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho698-top.html</guid>
+    </item>
+    <item>
       <title>「だいち２号」及び「だいち４号」で捉えた令和8年（2026年）熊本地震に伴う地殻変動</title>
       <link>http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Fri, 22 May 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65060.html</guid>
-    </item>
-    <item>
-      <title>国土地理院所蔵の古地図を展示します　～地図と測量の科学館 開館30周年事業～</title>
-      <link>http://www.gsi.go.jp/kohokocho/kohokocho65057.html</link>
-      <description />
-      <pubDate>Fri, 22 May 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65057.html</guid>
     </item>
   </channel>
 </rss>
