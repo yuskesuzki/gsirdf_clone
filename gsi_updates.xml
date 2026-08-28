@@ -6,6 +6,27 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用情報】令和８年度国土地理院選考採用試験（社会人経験者・係長級（事務））のご案内</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/jimusenkou2026_00002.html</link>
+      <description />
+      <pubDate>Thu, 27 Aug 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/jimusenkou2026_00002.html</guid>
+    </item>
+    <item>
+      <title>被災者の生活となりわい支援のためのパッケージ（国土地理院関係）</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/r8yobihi.html</link>
+      <description />
+      <pubDate>Thu, 27 Aug 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/r8yobihi.html</guid>
+    </item>
+    <item>
+      <title>令和９年度 国土地理院関係予算概算要求について</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/r9yosan-gaisan.html</link>
+      <description />
+      <pubDate>Thu, 27 Aug 2026 15:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/r9yosan-gaisan.html</guid>
+    </item>
+    <item>
       <title>4市区町村6基の自然災害伝承碑を追加し、全国で684市区町村2,469基を公開</title>
       <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
       <description />
@@ -25,13 +46,6 @@
       <description />
       <pubDate>Fri, 21 Aug 2026 02:50:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/uchusokuchi/20260728kumamoto.html</guid>
-    </item>
-    <item>
-      <title>令和8年熊本地震に伴い改定した電子基準点等の測量成果の公表について</title>
-      <link>http://www.gsi.go.jp/sokuchikijun/R8-kumamoto-earthquake-seika.html</link>
-      <description />
-      <pubDate>Fri, 14 Aug 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/R8-kumamoto-earthquake-seika.html</guid>
     </item>
     <item>
       <title>令和8年熊本地震に伴う地殻変動（第3報）</title>
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Mon, 25 May 2026 00:20:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</guid>
-    </item>
-    <item>
-      <title>2026「測量の日」特別企画を開催</title>
-      <link>http://www.gsi.go.jp/kohokocho/kohokocho65060.html</link>
-      <description />
-      <pubDate>Fri, 22 May 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65060.html</guid>
-    </item>
-    <item>
-      <title>国土地理院所蔵の古地図を展示します　～地図と測量の科学館 開館30周年事業～</title>
-      <link>http://www.gsi.go.jp/kohokocho/kohokocho65057.html</link>
-      <description />
-      <pubDate>Fri, 22 May 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65057.html</guid>
     </item>
   </channel>
 </rss>
