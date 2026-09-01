@@ -6,6 +6,27 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院入札監視委員会議事概要について</title>
+      <link>http://www.gsi.go.jp/soumu/soumu61030.html</link>
+      <description />
+      <pubDate>Tue, 01 Sep 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/soumu/soumu61030.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
+      <link>http://www.gsi.go.jp/jinji/temporary.202611_00001.html</link>
+      <description />
+      <pubDate>Mon, 31 Aug 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202611_00001.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】2026年度官庁訪問（一般職事務系（大卒程度））追加受付の実施について</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/kanchohomonR08_00001.html</link>
+      <description />
+      <pubDate>Mon, 31 Aug 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/kanchohomonR08_00001.html</guid>
+    </item>
+    <item>
       <title>【採用情報】令和８年度国土地理院選考採用試験（社会人経験者・係長級（事務））のご案内</title>
       <link>http://www.gsi.go.jp/GSI/RECRUIT/jimusenkou2026_00002.html</link>
       <description />
@@ -223,13 +244,6 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</guid>
     </item>
     <item>
-      <title>【採用情報】2026年度官庁訪問（一般職事務系（大卒程度））の実施について</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/kanchohomonR08_00001.html</link>
-      <description />
-      <pubDate>Tue, 16 Jun 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/kanchohomonR08_00001.html</guid>
-    </item>
-    <item>
       <title>地理空間情報の未来へ挑戦！～生徒・学生部門を新設した「Geoアクティビティコンテスト」の募集開始！～</title>
       <link>http://www.gsi.go.jp/chirikukan/chirikukan61039.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Mon, 25 May 2026 06:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho695-top.html</guid>
-    </item>
-    <item>
-      <title>令和8年5月15日20時22分頃の宮城県沖の地震に伴う地殻変動</title>
-      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260515_miyagi.html</link>
-      <description />
-      <pubDate>Mon, 25 May 2026 06:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260515_miyagi.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】国家公務員一般職試験（技術系区分）既合格者向け早期官庁訪問の採用面接の予約を開始します</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</link>
-      <description />
-      <pubDate>Mon, 25 May 2026 00:20:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026ippan_soukikanchouhoumon.html</guid>
     </item>
   </channel>
 </rss>
