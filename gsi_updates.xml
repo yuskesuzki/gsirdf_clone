@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年8月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0908.html</link>
+      <description />
+      <pubDate>Tue, 08 Sep 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0908.html</guid>
+    </item>
+    <item>
       <title>国土地理院入札監視委員会議事概要について</title>
       <link>http://www.gsi.go.jp/soumu/soumu61030.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Thu, 28 May 2026 01:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00001.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】国家公務員総合職試験（技術系区分）今年度合格者および既合格者向け官庁訪問の実施について</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou0610.html</link>
-      <description />
-      <pubDate>Wed, 27 May 2026 07:15:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/2026_kanchouhoumon_sougou0610.html</guid>
     </item>
   </channel>
 </rss>
