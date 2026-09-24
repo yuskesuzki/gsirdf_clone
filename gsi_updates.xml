@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>5市区町村12基の自然災害伝承碑を追加し、全国で686市区町村2,481基を公開</title>
+      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
+      <description />
+      <pubDate>Thu, 24 Sep 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
+    </item>
+    <item>
       <title>【採用情報】令和８年度国土地理院業務説明会（社会人経験者・係長級　事務）のご案内</title>
       <link>http://www.gsi.go.jp/GSI/RECRUIT/jimusenkousetsumei2026_00002.html</link>
       <description />
@@ -60,13 +67,6 @@
       <description />
       <pubDate>Thu, 27 Aug 2026 03:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/BOUSAI/R8_0827_heavyrain.html</guid>
-    </item>
-    <item>
-      <title>4市区町村6基の自然災害伝承碑を追加し、全国で684市区町村2,469基を公開</title>
-      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
-      <description />
-      <pubDate>Thu, 27 Aug 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
     </item>
     <item>
       <title>国土地理院広報第６９８号を掲載</title>
