@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年7月1日時点の全国都道府県市区町村別の面積を公表</title>
+      <link>http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</link>
+      <description />
+      <pubDate>Fri, 25 Sep 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/KOKUJYOHO/MENCHO-title.htm</guid>
+    </item>
+    <item>
+      <title>令和8年（2026年）台風第25号に関する情報</title>
+      <link>http://www.gsi.go.jp/BOUSAI/R8_taihuu25gou.html</link>
+      <description />
+      <pubDate>Thu, 24 Sep 2026 04:11:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/BOUSAI/R8_taihuu25gou.html</guid>
+    </item>
+    <item>
       <title>5市区町村12基の自然災害伝承碑を追加し、全国で686市区町村2,481基を公開</title>
       <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Fri, 29 May 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/jimusenkou2026_00001.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】座談会（対面）＜一般職大卒程度　行政・教養＞を開催します</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00002.html</link>
-      <description />
-      <pubDate>Thu, 28 May 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00002.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】国土地理院業務説明会＜一般職大卒程度　行政・教養＞を開催します</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00001.html</link>
-      <description />
-      <pubDate>Thu, 28 May 2026 01:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/setsumeikaiR8__00001.html</guid>
     </item>
   </channel>
 </rss>
