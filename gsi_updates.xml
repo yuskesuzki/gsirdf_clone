@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>地理院地図（中・小縮尺タイル）をリニューアルしました～情報の充実と表現の統一感向上～</title>
+      <link>http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html</link>
+      <description />
+      <pubDate>Wed, 30 Sep 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html</guid>
+    </item>
+    <item>
+      <title>点群データの刊行範囲を拡大しました</title>
+      <link>http://www.gsi.go.jp/gazochosa/tengun.html</link>
+      <description />
+      <pubDate>Wed, 30 Sep 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/tengun.html</guid>
+    </item>
+    <item>
       <title>衛星SARを活用し、熊本地震後の測量成果を迅速に改定しました</title>
       <link>http://www.gsi.go.jp/sokuchikijun/20260925_R8kumamoto_seika.html</link>
       <description />
@@ -130,20 +144,6 @@
       <description />
       <pubDate>Mon, 10 Aug 2026 08:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou0810.html</guid>
-    </item>
-    <item>
-      <title>１ｍメッシュ（標高）の提供範囲及び点群データの刊行範囲を拡大しました</title>
-      <link>http://www.gsi.go.jp/gazochosa/gazochosa41019.html</link>
-      <description />
-      <pubDate>Fri, 31 Jul 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/gazochosa41019.html</guid>
-    </item>
-    <item>
-      <title>点群データの刊行範囲を拡大しました</title>
-      <link>http://www.gsi.go.jp/gazochosa/tengun.html</link>
-      <description />
-      <pubDate>Fri, 31 Jul 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/gazochosa/tengun.html</guid>
     </item>
     <item>
       <title>令和8年熊本地震に伴う地殻変動（第2報）</title>
