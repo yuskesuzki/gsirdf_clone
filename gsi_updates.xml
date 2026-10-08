@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年9月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou1008.html</link>
+      <description />
+      <pubDate>Thu, 08 Oct 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou1008.html</guid>
+    </item>
+    <item>
       <title>地理院地図（中・小縮尺タイル）をリニューアルしました～情報の充実と表現の統一感向上～</title>
       <link>http://www.gsi.go.jp/chizuhensyu/chizuhensyu41047.html</link>
       <description />
@@ -39,13 +46,6 @@
       <description />
       <pubDate>Thu, 24 Sep 2026 04:11:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/BOUSAI/R8_taihuu25gou.html</guid>
-    </item>
-    <item>
-      <title>5市区町村12基の自然災害伝承碑を追加し、全国で686市区町村2,481基を公開</title>
-      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
-      <description />
-      <pubDate>Thu, 24 Sep 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
     </item>
     <item>
       <title>【採用情報】令和８年度国土地理院業務説明会（社会人経験者・係長級　事務）のご案内</title>
