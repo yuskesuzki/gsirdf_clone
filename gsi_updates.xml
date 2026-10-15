@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和８年度 国土地理院選考採用試験（社会人経験者・一般職（技術系）係長級）について</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/R8keiken_ippan.html</link>
+      <description />
+      <pubDate>Tue, 13 Oct 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/R8keiken_ippan.html</guid>
+    </item>
+    <item>
       <title>令和８年度 国土交通省第２回選考採用試験（社会人経験者・総合職（技術系）相当・課長補佐級・係長級）について</title>
       <link>http://www.gsi.go.jp/kikakuchousei/R8keiken_sougou.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Tue, 02 Jun 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61018.html</guid>
-    </item>
-    <item>
-      <title>「３次元地図可視化サイト」を試験公開～国土の姿をより分かりやすく～</title>
-      <link>http://www.gsi.go.jp/johofukyu/johofukyu60001_00018.html</link>
-      <description />
-      <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/johofukyu/johofukyu60001_00018.html</guid>
     </item>
   </channel>
 </rss>
