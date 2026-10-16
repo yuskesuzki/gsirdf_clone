@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院主催 オンライン説明会プログラム【第0回】「30分で解説！地理院のお仕事まるわかり」を開催します</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
+      <description />
+      <pubDate>Thu, 15 Oct 2026 04:35:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/online_program.html</guid>
+    </item>
+    <item>
       <title>令和８年度 国土地理院選考採用試験（社会人経験者・一般職（技術系）係長級）について</title>
       <link>http://www.gsi.go.jp/kikakuchousei/R8keiken_ippan.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Wed, 03 Jun 2026 02:10:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/BOUSAI/R8_taihuu6gou.html</guid>
-    </item>
-    <item>
-      <title>指名停止措置について</title>
-      <link>http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61018.html</link>
-      <description />
-      <pubDate>Tue, 02 Jun 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/SERVICE/keiyaku/keiyaku61018.html</guid>
     </item>
   </channel>
 </rss>
