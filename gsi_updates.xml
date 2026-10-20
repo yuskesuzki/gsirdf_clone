@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>「測量用航空機くにかぜ機内公開」「地図かるた」イベントを開催</title>
+      <link>http://www.gsi.go.jp/kohokocho/kohokocho20261020.html</link>
+      <description />
+      <pubDate>Tue, 20 Oct 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho20261020.html</guid>
+    </item>
+    <item>
       <title>国土地理院主催 オンライン説明会プログラム【第0回】「30分で解説！地理院のお仕事まるわかり」を開催します</title>
       <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Fri, 05 Jun 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65062.html</guid>
-    </item>
-    <item>
-      <title>令和８年(2026年)台風第６号に関する情報</title>
-      <link>http://www.gsi.go.jp/BOUSAI/R8_taihuu6gou.html</link>
-      <description />
-      <pubDate>Wed, 03 Jun 2026 02:10:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/BOUSAI/R8_taihuu6gou.html</guid>
     </item>
   </channel>
 </rss>
