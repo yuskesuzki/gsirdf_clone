@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>地名情報で取り扱う漢字の仕様を一部変更しました。</title>
+      <link>http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41223.html</link>
+      <description />
+      <pubDate>Thu, 29 Oct 2026 23:15:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41223.html</guid>
+    </item>
+    <item>
+      <title>国土地理院主催 オンライン説明会プログラム【第1回】「若手職員が語る！地理院の仕事と働き方」を開催します</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
+      <description />
+      <pubDate>Thu, 29 Oct 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/online_program.html</guid>
+    </item>
+    <item>
       <title>7市区町村18基の自然災害伝承碑を追加し、全国で690市区町村2,499基を公開</title>
       <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
       <description />
@@ -46,13 +60,6 @@
       <description />
       <pubDate>Tue, 20 Oct 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho20261020.html</guid>
-    </item>
-    <item>
-      <title>国土地理院主催 オンライン説明会プログラム【第0回】「30分で解説！地理院のお仕事まるわかり」を開催します</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
-      <description />
-      <pubDate>Thu, 15 Oct 2026 04:35:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/online_program.html</guid>
     </item>
     <item>
       <title>令和８年度 国土地理院選考採用試験（社会人経験者・一般職（技術系）係長級）について</title>
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
-    </item>
-    <item>
-      <title>2026年6月8日フィリピン付近の地震に伴う地殻変動</title>
-      <link>http://www.gsi.go.jp/cais/topic20260608_PhilippineEQ.html</link>
-      <description />
-      <pubDate>Wed, 10 Jun 2026 08:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/cais/topic20260608_PhilippineEQ.html</guid>
     </item>
   </channel>
 </rss>
