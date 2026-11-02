@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和9年度国土地理院交流研究員の募集について</title>
+      <link>http://www.gsi.go.jp/REPORT/r9kouryu.html</link>
+      <description />
+      <pubDate>Mon, 02 Nov 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/REPORT/r9kouryu.html</guid>
+    </item>
+    <item>
       <title>地名情報で取り扱う漢字の仕様を一部変更しました。</title>
       <link>http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41223.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Tue, 16 Jun 2026 02:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</guid>
-    </item>
-    <item>
-      <title>地理空間情報の未来へ挑戦！～生徒・学生部門を新設した「Geoアクティビティコンテスト」の募集開始！～</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan61039.html</link>
-      <description />
-      <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
     </item>
   </channel>
 </rss>
