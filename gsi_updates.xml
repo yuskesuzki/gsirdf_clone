@@ -6,6 +6,20 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>令和8年11月4日 地理空間情報に関する各サービスの一時停止に関するお知らせ</title>
+      <link>http://www.gsi.go.jp/MAP/service_notice_00002.html</link>
+      <description />
+      <pubDate>Wed, 04 Nov 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/MAP/service_notice_00002.html</guid>
+    </item>
+    <item>
+      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
+      <link>http://www.gsi.go.jp/jinji/temporary.202702_00001.html</link>
+      <description />
+      <pubDate>Tue, 03 Nov 2026 23:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202702_00001.html</guid>
+    </item>
+    <item>
       <title>令和9年度国土地理院交流研究員の募集について</title>
       <link>http://www.gsi.go.jp/REPORT/r9kouryu.html</link>
       <description />
@@ -32,13 +46,6 @@
       <description />
       <pubDate>Thu, 29 Oct 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
-    </item>
-    <item>
-      <title>令和8年11月4日 地理空間情報に関する各サービスの一時停止に関するお知らせ</title>
-      <link>http://www.gsi.go.jp/MAP/service_notice_00002.html</link>
-      <description />
-      <pubDate>Wed, 28 Oct 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/MAP/service_notice_00002.html</guid>
     </item>
     <item>
       <title>国土地理院広報第７００号を掲載</title>
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260625_00001.html</guid>
-    </item>
-    <item>
-      <title>【採用案内】官庁合同業務説明会に参加します</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</link>
-      <description />
-      <pubDate>Tue, 16 Jun 2026 02:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</guid>
     </item>
   </channel>
 </rss>
