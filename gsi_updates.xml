@@ -48,13 +48,6 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
     </item>
     <item>
-      <title>国土地理院広報第７００号を掲載</title>
-      <link>http://www.gsi.go.jp/kohokocho/koho700-top.html</link>
-      <description />
-      <pubDate>Mon, 26 Oct 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho700-top.html</guid>
-    </item>
-    <item>
       <title>令和８年度 国家公務員採用一般職官庁訪問（高卒者・技術（施設職））について</title>
       <link>http://www.gsi.go.jp/kikakuchousei/R8kousotu_tech.html</link>
       <description />
@@ -109,6 +102,13 @@
       <description />
       <pubDate>Fri, 25 Sep 2026 08:15:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/sokuchikijun/20260925_R8kumamoto_seika.html</guid>
+    </item>
+    <item>
+      <title>国土地理院広報第６９９号</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho699-top.html</link>
+      <description />
+      <pubDate>Fri, 25 Sep 2026 06:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho699-top.html</guid>
     </item>
     <item>
       <title>令和8年7月1日時点の全国都道府県市区町村別の面積を公表</title>
@@ -251,13 +251,6 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260728_kumamoto.html</guid>
     </item>
     <item>
-      <title>国土地理院広報第６９７号を掲載</title>
-      <link>http://www.gsi.go.jp/kohokocho/koho697-top.html</link>
-      <description />
-      <pubDate>Mon, 27 Jul 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho697-top.html</guid>
-    </item>
-    <item>
       <title>測量事業関係功労者等を表彰 ～測量技術の向上と測量事業の推進のために～</title>
       <link>http://www.gsi.go.jp/gijyutukanri/gijyutukanri61020.html</link>
       <description />
@@ -354,6 +347,13 @@
       <description />
       <pubDate>Tue, 16 Jun 2026 02:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</guid>
+    </item>
+    <item>
+      <title>地理空間情報の未来へ挑戦！～生徒・学生部門を新設した「Geoアクティビティコンテスト」の募集開始！～</title>
+      <link>http://www.gsi.go.jp/chirikukan/chirikukan61039.html</link>
+      <description />
+      <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
     </item>
   </channel>
 </rss>
