@@ -6,11 +6,11 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>令和8年11月4日 地理空間情報に関する各サービスの一時停止に関するお知らせ</title>
-      <link>http://www.gsi.go.jp/MAP/service_notice_00002.html</link>
+      <title>令和8年10月の地殻変動</title>
+      <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou1110.html</link>
       <description />
-      <pubDate>Wed, 04 Nov 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/MAP/service_notice_00002.html</guid>
+      <pubDate>Tue, 10 Nov 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou1110.html</guid>
     </item>
     <item>
       <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
@@ -46,6 +46,13 @@
       <description />
       <pubDate>Thu, 29 Oct 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
+    </item>
+    <item>
+      <title>国土地理院広報第７００号</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho700-top.html</link>
+      <description />
+      <pubDate>Mon, 26 Oct 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho700-top.html</guid>
     </item>
     <item>
       <title>令和８年度 国家公務員採用一般職官庁訪問（高卒者・技術（施設職））について</title>
@@ -251,6 +258,13 @@
       <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260728_kumamoto.html</guid>
     </item>
     <item>
+      <title>国土地理院広報第６９７号</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho697-top.html</link>
+      <description />
+      <pubDate>Mon, 27 Jul 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho697-top.html</guid>
+    </item>
+    <item>
       <title>測量事業関係功労者等を表彰 ～測量技術の向上と測量事業の推進のために～</title>
       <link>http://www.gsi.go.jp/gijyutukanri/gijyutukanri61020.html</link>
       <description />
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260625_00001.html</guid>
-    </item>
-    <item>
-      <title>【採用案内】官庁合同業務説明会に参加します</title>
-      <link>http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</link>
-      <description />
-      <pubDate>Tue, 16 Jun 2026 02:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/202606goudou_00001.html</guid>
-    </item>
-    <item>
-      <title>地理空間情報の未来へ挑戦！～生徒・学生部門を新設した「Geoアクティビティコンテスト」の募集開始！～</title>
-      <link>http://www.gsi.go.jp/chirikukan/chirikukan61039.html</link>
-      <description />
-      <pubDate>Mon, 15 Jun 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chirikukan/chirikukan61039.html</guid>
     </item>
   </channel>
 </rss>
