@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>50年ぶりに琵琶湖の湖底の測量を実施　～琵琶湖の保全や防災に役立つ地理空間情報を整備～</title>
+      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61062.html</link>
+      <description />
+      <pubDate>Wed, 11 Nov 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61062.html</guid>
+    </item>
+    <item>
       <title>令和8年10月の地殻変動</title>
       <link>http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou1110.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Thu, 25 Jun 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho696-top.html</guid>
-    </item>
-    <item>
-      <title>令和８年測量士補試験の合格者を発表</title>
-      <link>http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260625_00001.html</link>
-      <description />
-      <pubDate>Thu, 25 Jun 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20260625_00001.html</guid>
     </item>
   </channel>
 </rss>
