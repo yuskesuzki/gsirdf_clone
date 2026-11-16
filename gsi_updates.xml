@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院主催 オンライン説明会プログラム【第2回】国土地理院の『測る』業務特集 を開催します</title>
+      <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
+      <description />
+      <pubDate>Mon, 16 Nov 2026 05:30:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/online_program.html</guid>
+    </item>
+    <item>
       <title>50年ぶりに琵琶湖の湖底の測量を実施　～琵琶湖の保全や防災に役立つ地理空間情報を整備～</title>
       <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61062.html</link>
       <description />
@@ -39,13 +46,6 @@
       <description />
       <pubDate>Thu, 29 Oct 2026 23:15:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41223.html</guid>
-    </item>
-    <item>
-      <title>国土地理院主催 オンライン説明会プログラム【第1回】「若手職員が語る！地理院の仕事と働き方」を開催します</title>
-      <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
-      <description />
-      <pubDate>Thu, 29 Oct 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kikakuchousei/online_program.html</guid>
     </item>
     <item>
       <title>7市区町村18基の自然災害伝承碑を追加し、全国で690市区町村2,499基を公開</title>
