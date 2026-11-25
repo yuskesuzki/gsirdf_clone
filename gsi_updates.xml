@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>火山防災関連施設データ（51火山分）を更新</title>
+      <link>http://www.gsi.go.jp/bousaichiri/volcano-maps-vdpf-data.html</link>
+      <description />
+      <pubDate>Wed, 25 Nov 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/volcano-maps-vdpf-data.html</guid>
+    </item>
+    <item>
       <title>国土地理院主催 オンライン説明会プログラム【第2回】国土地理院の『測る』業務特集 を開催します</title>
       <link>http://www.gsi.go.jp/kikakuchousei/online_program.html</link>
       <description />
@@ -347,13 +354,6 @@
       <description />
       <pubDate>Thu, 25 Jun 2026 09:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260625_iwate.html</guid>
-    </item>
-    <item>
-      <title>国土地理院広報第６９６号を掲載</title>
-      <link>http://www.gsi.go.jp/kohokocho/koho696-top.html</link>
-      <description />
-      <pubDate>Thu, 25 Jun 2026 05:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho696-top.html</guid>
     </item>
   </channel>
 </rss>
