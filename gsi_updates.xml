@@ -6,6 +6,27 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>国土地理院広報第７０１号</title>
+      <link>http://www.gsi.go.jp/kohokocho/koho701-top.html</link>
+      <description />
+      <pubDate>Thu, 26 Nov 2026 07:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/koho701-top.html</guid>
+    </item>
+    <item>
+      <title>自然災害伝承碑が2,500基を突破　～防災・教育分野での活用も広がっています～</title>
+      <link>http://www.gsi.go.jp/bousaichiri/bousaichiri61064.html</link>
+      <description />
+      <pubDate>Thu, 26 Nov 2026 05:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/bousaichiri61064.html</guid>
+    </item>
+    <item>
+      <title>令和９年測量士・測量士補試験の日程を公表</title>
+      <link>http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20261126_00001.html</link>
+      <description />
+      <pubDate>Thu, 26 Nov 2026 00:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/LAW/SHIKEN/shikakuseido20261126_00001.html</guid>
+    </item>
+    <item>
       <title>火山防災関連施設データ（51火山分）を更新</title>
       <link>http://www.gsi.go.jp/bousaichiri/volcano-maps-vdpf-data.html</link>
       <description />
@@ -53,13 +74,6 @@
       <description />
       <pubDate>Thu, 29 Oct 2026 23:15:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41223.html</guid>
-    </item>
-    <item>
-      <title>7市区町村18基の自然災害伝承碑を追加し、全国で690市区町村2,499基を公開</title>
-      <link>http://www.gsi.go.jp/bousaichiri/denshouhi.html</link>
-      <description />
-      <pubDate>Thu, 29 Oct 2026 00:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/bousaichiri/denshouhi.html</guid>
     </item>
     <item>
       <title>国土地理院広報第７００号</title>
@@ -340,20 +354,6 @@
       <description />
       <pubDate>Tue, 30 Jun 2026 05:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/kohokocho/kohokocho65063.html</guid>
-    </item>
-    <item>
-      <title>令和8年6月26日22時29分頃の山梨県東部・富士五湖の地震に伴う地殻変動</title>
-      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260626_yamanashifuji.html</link>
-      <description />
-      <pubDate>Sat, 27 Jun 2026 07:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260626_yamanashifuji.html</guid>
-    </item>
-    <item>
-      <title>令和8年6月25日7時30分頃の岩手県沖の地震に伴う地殻変動</title>
-      <link>http://www.gsi.go.jp/chibankansi/chikakukansi_20260625_iwate.html</link>
-      <description />
-      <pubDate>Thu, 25 Jun 2026 09:00:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/chibankansi/chikakukansi_20260625_iwate.html</guid>
     </item>
   </channel>
 </rss>
