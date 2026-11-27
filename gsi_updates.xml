@@ -6,6 +6,13 @@
     <description>国土地理院のRDFを自動修復したフィードです。</description>
     <atom:link href="https://yuskesuzki.github.io/gsirdf_clone/gsi_updates.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【採用情報】官庁訪問（経験者採用試験（係長級（事務）））【府省合同B区分】</title>
+      <link>http://www.gsi.go.jp/GSI/RECRUIT/jimuBkantyouhoumon_00001.html</link>
+      <description />
+      <pubDate>Fri, 27 Nov 2026 01:00:00 -0000</pubDate>
+      <guid isPermaLink="true">http://www.gsi.go.jp/GSI/RECRUIT/jimuBkantyouhoumon_00001.html</guid>
+    </item>
+    <item>
       <title>国土地理院広報第７０１号</title>
       <link>http://www.gsi.go.jp/kohokocho/koho701-top.html</link>
       <description />
@@ -53,13 +60,6 @@
       <description />
       <pubDate>Tue, 10 Nov 2026 07:00:00 -0000</pubDate>
       <guid isPermaLink="true">http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2026-goudou1110.html</guid>
-    </item>
-    <item>
-      <title>【採用情報】任期付採用職員募集情報（勤務地：茨城県つくば市）募集</title>
-      <link>http://www.gsi.go.jp/jinji/temporary.202702_00001.html</link>
-      <description />
-      <pubDate>Tue, 03 Nov 2026 23:30:00 -0000</pubDate>
-      <guid isPermaLink="true">http://www.gsi.go.jp/jinji/temporary.202702_00001.html</guid>
     </item>
     <item>
       <title>令和9年度国土地理院交流研究員の募集について</title>
